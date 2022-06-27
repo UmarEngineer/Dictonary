@@ -204,4 +204,16 @@ body{
       margin-left: 20px;
       margin-right: 20px;
    }
+
+   .word{
+      max-width: 100%;
+   }
+
+   .info-section{
+      width: 70%;
+   }
+
+   .load{
+      top: 220px;
+   }
 }
